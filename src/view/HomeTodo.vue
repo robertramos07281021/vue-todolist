@@ -25,9 +25,6 @@ onMounted(async() => {
 })
 
 
-
-
-
 const forUpdate = ref(false)
 const todoInfo = reactive({
   id: '',
