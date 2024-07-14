@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.todoBg {
+  background-image: url('todoBG.avif');
+  background-size: 100% 100%;
+}
